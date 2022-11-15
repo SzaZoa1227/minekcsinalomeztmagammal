@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Szüret</title>
+    <style>
+        table{
+            border-collapse:collapse;
+            border-style:solid;
+            text-align: center;
+            border-color:black;
+
+        }
+        td{
+            border-style:solid;
+            border: 0.5px solid black;
+        }
+
+        .formazott{
+            background-color:lightgray;
+            font-weight: 800;
+
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr class="formazott">
+                <td></td>
+                <td>Szüret kezdete</td>
+                <td>Szüret vége</td>
+                <td>Ár (Ft/kg)</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="formazott">Meggy</td>
+                <td colspan="2">Június</td>
+                <td>450</td>
+            </tr>
+            <tr>
+                <td class="formazott">Szilva</td>
+                <td rowspan="2">Július</td>
+                <td>Augusztus</td>
+                <td>300</td>
+            </tr>
+            <tr>
+                <td class="formazott">Szőlő</td>
+                     <td>Október</td>
+                <td>370</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

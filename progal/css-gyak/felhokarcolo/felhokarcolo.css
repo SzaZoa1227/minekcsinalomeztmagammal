@@ -1,0 +1,47 @@
+body{
+    font-family:Arial;
+    font-size: 1.1em;
+    background-color: lightskyblue;
+}
+
+h1{
+    text-align:center;
+    color: red;
+    font-size: 3em;
+    text-transform:uppercase;
+}
+
+hr{
+    width:60%;
+    background-color: blue;
+    border: none;
+    height: 4px;
+}
+
+#bevezeto{
+    font-weight: 800;
+    font-style:italic;
+}
+
+div{
+    text-align:justify;
+}
+.minek{
+    line-height: 150%;
+    padding: 20px;
+}
+.varos{
+    font-weight: 800;
+    background-color: red;
+    color:white;
+}
+p{
+    text-align:right;
+    color:gray;
+    font-style:italic;
+
+}
+.kotojelutan{
+    font-variant:small-caps;
+    letter-spacing: 2px;
+}
