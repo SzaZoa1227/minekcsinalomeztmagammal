@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    padding: 0 auto;
+    text-align:center
+}
+.valtsszint{
+    color:white;
+  }
+
+.gomb{
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    border-radius: 10px;
+
+}
+
+
+
