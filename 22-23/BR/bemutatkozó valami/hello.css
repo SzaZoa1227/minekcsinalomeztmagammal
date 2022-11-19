@@ -1,19 +1,45 @@
 body{
     background-color: gray;
-    padding: 0 auto;
-    text-align:center
-}
-.valtsszint{
-    color:white;
-  }
-
-.gomb{
-    position: fixed;
-    top: 50px;
-    right: 50px;
-    border-radius: 10px;
-
 }
 
+.header{
+	text-align:center;
+	border: 3px solid #73AD21;
+	background-color:#5d509b;
+	border-style: solid;
+	border-width: thin;
+	border-radius: 15px 0px;
+	border-color:black;
+	padding: 5px;
+	color: #000000;
+    width: 98vw;
+    height: 164px;
+    left: 10px;
+    right: 10px;
+}
 
+.menu {
+	margin: 10px;
+	background-color:#5d509b;
+	border-style: solid;
+	border-width: thin;
+	border-radius: 10px 0px;
+	width: fit-content;
+	padding: 5px;
+	display: block;
+	float: left;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: small;
+}
 
+a{
+    cursor:pointer;
+    padding: top 10px;
+    
+}
+td{
+    color: #000000;
+    font-family: arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: small;
+}
