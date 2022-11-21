@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Mi micsoda</title>
+
+</head>
+
+<body>
+
+Észszerû?
+
+Ízelítõ a 2016-os helyesírási szabályzat újdonságaiból
+
+Vastag betûvel szedtük az új szabályzat szerinti írásmódot (ezek csak példák, nem teljes listák). A két vagy több módon is helyesen írható változatokat / jellel kapcsoltuk össze. A korábbi alakokat zárójelbe tettük.
+
+dühvel / dühhel, méhvel / méhhel
+de: csehvel, pléhvel
+egyre elterjedtebb, de még nem általános az eredetileg néma h ejtése a szavak végén
+
+Alperes, Eladó, Szerzõ
+a köznevek továbbra sem kezdhetõk nagybetûvel, de a szabályzat elfogadja, hogy hivatalos iratokban ez szokássá válik
+
+a Kutatóintézet, a Bizottság
+a kisbetûs kezdés marad általános, de a szabálzat ott is elfogadja a nagybetût az intézmények vagy szervezeti egységeik nevében, ahol eddig nem
+
+21 126 / 21.126
+szóköz helyett "esetleg ponttal" is tagolhatók a számok
+
+10.35 / 10:35
+nemcsak ponttal, hanem már kettõsponttal is el szabad választani az órát és a percet jelölõ számot
+
+Kossuth rádió, de: Klasszik Rádió
+Nádor terem, de: Derkovits Terem
+aszerint kis- vagy nagybetûs a "köznévi tag", hogy a név önálló intézményt jelent-e vagy csak valaminek egy részét
+
+Mariann-nal, Blikk-kel, Szerelmes szonett-tel
+a címekre és a magyar utónevekre, illetve általában az összes tulajdonnévre kiterjesztették ezt a kötõjeles ragozást, hogy felismerhetõ legyen az eredeti (például hogy Adrienrõl vagy Adriennrõl van-e szó); nem lett viszont semmi az -i végû helyiségnevek felismerhetõségét célzó, "budakeszii" típusú írásmódból
+
+észszerû, gipszszerû
+a "képzõszerû utótag" (1954 óta ez volt a -fajta, -féle, -nemû, -rét, -rétû, -szerû besorolása) rövid pályafutása véget ért, ismét összetétel utótagjának tekintik ezeket, de ez csak ott tûnik fel, ahol immár nem olvad egybe két sz, ha találkozik
+
+advent / ádvent, árbóc (árboc), búra (bura), fridzsider (frizsider), immunis (immúnis), intellektuel / entellektüel, sátánizmus (satanizmus)
+az ejtéshez igazították néhány tucatnyi szó helyesírását
+
+elsõfokú, feketedoboz, keménytojás, nagyratörõ, szabadvers - házi nyúl, cserben hagy, csoda szép, fejbe ütés, légi forgalmi társaság, sorba állás, sós perec
+többféle okból változhatott a külön- és egybeírás
+
+május elsején / 1-jén / 1-én
+másodiki / 2-i / másodikai / 2-ai
+eldöntetlen maradt a vita, hogy az elseje j betûje a szótõhöz vagy a toldalékhoz tartozik-e
+
+e-mail / imél, e-mail-cím / imélcím, hacker / hekker, spray / spré / szpré, szalsza / salsa
+egyes idegen szavak meghonosodásának állását tükrözik az alternatívák, de nem szerepel a szótárban például sem e-book, sem íbuk
+
+örökkön örökké, setesuta
+a kötõjelüket elvesztõ szavak most hol külön-, hol egybeírandók
+
+BÚÉK (b.ú.é.k.)
+bár a "közszói betûszók" kisbetûsek, az AkH néhány elterjedt esetrõl immár elfogadja: "nem helyteleneek" a nagybetûsek sem
+
+CIB-bank (CIB bank)
+már nem kell figyelni arra, hogy a betûszóban megbújik-e az a szó, amely egyúttal az utótag is, ezentúl mindig kötõjel dukál
+
+kapitälchesn, senor, Èapek, £odŸ, Mãrãºeºti
+a latin betûs írású nyelvek szavaiban immár alkalmazni kell a magyarban nem használatos mellékjeleket is, de a köznevek elején a nagy kezdõbetût nem
+
+l. / ld., o. / old., r.k. / róm.kat.
+ugyanannak a szónak lehet többféle rövidítése is, ez is alkalmazkodás a szokásokhoz
+
+Forrás: HVG
+</body>
