@@ -1,0 +1,36 @@
+h1{
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    text-align:center;
+}
+h2{
+    font-style:italic;
+
+}
+body{
+    color:darkgreen;
+    background-color: yellowgreen;
+
+}
+#keret{
+    border: solid darkgreen 1px;
+    background-color: lightgreen;
+    width: fit-content;
+    margin-left: 10px;
+
+    
+}
+#forras{
+    text-align:right;
+    color: red;
+}
+
+.nagy{
+    font-weight: 800;
+}
+.kicsi{
+    color:gray;
+    margin-left: 10px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
