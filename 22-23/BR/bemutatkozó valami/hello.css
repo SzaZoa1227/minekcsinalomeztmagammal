@@ -1,5 +1,5 @@
 
-#body{
+body{
 	color: #000000;
 	scroll-behavior: smooth;
 	margin: auto;
@@ -29,7 +29,7 @@
 	padding: 5px;
 	margin-top:10px;
 	font-family: arial, Helvetica, sans-serif;
-	font-size: small;
+	font-size: medium;
     border-color:black;
 	display: flex;
 	align-items: center;
@@ -39,8 +39,8 @@
 	height:45px
 }
 
-img{
-	float:left;
+.img{
+	float:right;
 	margin: none;
 	height: 250px
 }
@@ -51,4 +51,24 @@ img{
 	width: 100%; 
 	background-color: red;
 	margin: none;
+}
+.kep{
+	margin-top:50px;
+	width: 225px;
+	float:left;
+}
+#box{
+	background-color: #0000005e;
+	border: solid thin black;
+	border-radius: 15px 0px;
+	width:900px;
+	padding: 5px;
+
+}
+#bajodvan{
+	width:227px;
+}
+
+a{
+	color:inherit;
 }
