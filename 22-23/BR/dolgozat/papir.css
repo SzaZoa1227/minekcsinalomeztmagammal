@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: white
+}
+
+p {
+    text-align: justify;
+}
+
+.keretezett {
+    width: 33%;
+    margin: 0 33%
+}
+
+p, h2 {
+    padding: 0 8px;
+}
