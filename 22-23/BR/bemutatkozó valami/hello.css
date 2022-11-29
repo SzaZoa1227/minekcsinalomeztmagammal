@@ -4,6 +4,7 @@ body{
 	scroll-behavior: smooth;
 	margin: auto;
 	width: 50vw;
+	background-color: gray
 
 
 
@@ -21,7 +22,7 @@ body{
     height: 164px;
 	}
 
-.box, #p {
+.box{
 	background-color: #0000005e;
 	border-style: solid;
 	border-width: thin;
@@ -40,7 +41,6 @@ body{
 }
 
 .img{
-	float:right;
 	margin: none;
 	height: 250px
 }
@@ -65,10 +65,6 @@ body{
 	padding: 5px;
 
 }
-#bajodvan{
-	width:227px;
-}
-
 a{
-	color:inherit;
+	color:inherit
 }
