@@ -1,0 +1,18 @@
+#fejlec{
+    background-color:brown;
+    width:100%;
+
+}
+#cimsor{
+    background-color:green;
+
+}
+table{
+    width: 100%;
+}
+img{
+    width: calc(100%)
+}
+td{
+    width: calc(100%/6);
+}
