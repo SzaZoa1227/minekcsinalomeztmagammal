@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    margin: 0 10vw;
+    text-align: center;
+}
+div{
+    width: 33%;
+}
+article{
+    width: 33%;;
+}
