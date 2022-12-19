@@ -1,0 +1,41 @@
+body{
+    background-image:url(hatter.jpg);
+    background-size:110%;
+    margin: 0;
+    padding:0;
+    scroll-behavior: smooth;
+    box-sizing:border-box;
+}
+#balrafloat{
+    float:left;
+}
+#jobbrafloat{
+    float:right;
+}
+article{
+    width: 50vw;
+}
+img{
+    width: 60vw;
+    margin: 0 20vw;
+}
+
+h2{
+    margin: 5px;
+    text-align: center;
+}
+main{
+    text-align: center;
+    width: 90vw;
+    margin: 0 5vw;
+}
+article{
+    width:40vw;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius:10px;
+    padding: 0px 5px;
+    margin-top: 5px;
+}
+article, img{
+    border:dashed 5px red;
+}
