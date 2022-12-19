@@ -1,6 +1,6 @@
 body{
     background-image:url(hatter.jpg);
-    background-size:110%;
+    background-size:200%;
     margin: 0;
     padding:0;
     scroll-behavior: smooth;
@@ -12,17 +12,15 @@ body{
 #jobbrafloat{
     float:right;
 }
-article{
-    width: 50vw;
-}
 img{
     width: 60vw;
     margin: 0 20vw;
 }
 
 h2{
-    margin: 5px;
+    margin: 0 auto;
     text-align: center;
+    width:60vw;
 }
 main{
     text-align: center;
@@ -30,12 +28,12 @@ main{
     margin: 0 5vw;
 }
 article{
-    width:40vw;
+    width:30vw;
     background-color: rgba(255, 255, 255, 0.7);
     border-radius:10px;
     padding: 0px 5px;
-    margin-top: 5px;
-}
+    margin: 10px 5vw 0vw;
+} 
 article, img{
     border:dashed 5px red;
 }
